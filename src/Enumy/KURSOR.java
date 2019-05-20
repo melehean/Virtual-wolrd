@@ -1,0 +1,6 @@
+package Enumy;
+
+public enum KURSOR
+{
+    GORA, DOL, PRAWO, LEWO, MOC, BRAK, GORA_LEWO, GORA_PRAWO, DOL_LEWO, DOL_PRAWO
+}
